@@ -1,7 +1,7 @@
 # Hand_Pose_Estimation_Using_Convolutional_Pose_Machine
 ## OverView
-Hand pose estimation is the task of finding the joints of the hand from an image or set of video frames.Hand pose estimation
-Determine 3D locations of hand joints.
+Hand pose estimation is the task of finding the joints of the hand from an image or set of video frames.Hand pose estimation<br/>
+Determine 3D locations of hand joints.<br/>
 Pose estimation refers to computer vision techniques that detect human figures in images and video.
 
 ## Dependencies
@@ -20,12 +20,25 @@ time
 
 ## Model
  ### Convolutional Pose Machine
- 
+<img src="Outputs/Screenshot_2020-10-05 1602 00134 pdf.png"> 
+
+### Stage 1
+With an image as input, the classifier produces P+1 belief maps, where P is the number of body joints whose locations we are required to predict and the +1 is for background class.
+
+### Stage 2 to T
+At any stage t, the input to the classifier is the belief maps from stage t-1 and new features extracted from the image. This enables the pose machines to refine the prediction at every stage.
+
+## Noations
+    x: image feature extractor for stage 1
+    g: classifier
+    x’: feature extractor for stages (≥2); same for all stages
+    b: belief maps
+    psi: converts belief maps into better features for next stage classifier
  
 ## Download models
-Put downloaded models in the models/weights folder.
-Body Pose Model
-Hand Pose Model (.pkl)
+Put downloaded models in the models/weights folder.<br/>
+Body Pose Model<br/>
+Hand Pose Model (.pkl)<br/>
 Hand Pose Model (tf)
     
     
