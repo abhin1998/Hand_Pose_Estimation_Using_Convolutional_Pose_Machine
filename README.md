@@ -21,17 +21,18 @@ time
 ## Model
  ### Convolutional Pose Machine
  
+ 
 ## Download models
 Put downloaded models in the models/weights folder.
-    Body Pose Model
-    Hand Pose Model (.pkl)
-    Hand Pose Model (tf)
+Body Pose Model
+Hand Pose Model (.pkl)
+Hand Pose Model (tf)
     
     
 ## Variation
-    MULTI will show multiple stages output heatmaps and the final pose estimation simultaneously.
-    SINGLE will only show the final pose estimation.
-    HM will show each joint heatmap of last stage separately.
+    ### MULTI will show multiple stages output heatmaps and the final pose estimation simultaneously.
+    ### SINGLE will only show the final pose estimation.
+    ### HM will show each joint heatmap of last stage separately.
 
 
 
