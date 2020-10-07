@@ -40,21 +40,12 @@ Put downloaded models in the models/weights folder.
 
 
 ## Model Test
-  <img src="Images/webcam4.jpg" width="700"> 
+<img src="Outputs/Untitled111 (2).png"> 
+<img src="Outputs/Untitleaad (2).jpg">
+<img src="Outputs/Untitledss (2).png">        
  <br/>
- <br/>
- <br/>
- <img src="Images/webcam1.jpg" width="700">
- <br/>
- <br/>
- <br/>
- <img src="Images/webcam2.jpg" width="700">        
- <br/>
- <br/>
- <br/>
- <img src="Images/webcam3.jpg" width="700">
- <br/>
- <br/>
+ 
+ 
  
  ## Video
  
