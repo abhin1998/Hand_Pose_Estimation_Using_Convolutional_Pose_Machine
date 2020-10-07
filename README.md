@@ -41,7 +41,11 @@ Put downloaded models in the models/weights folder.
 
 ## Model Test
 <img src="Outputs/Untitled111 (2).png"> 
+<br/>
+<br/>
 <img src="Outputs/Untitleaad (2).jpg">
+<br/>
+<br/>
 <img src="Outputs/Untitledss (2).png">        
  <br/>
  
