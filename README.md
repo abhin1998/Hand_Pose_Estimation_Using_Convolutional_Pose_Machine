@@ -63,9 +63,15 @@ Hand Pose Model (tf)
 <img src="Outputs/Untitledss (2).png">        
  <br/>
  
+## Code
+
+https://drive.google.com/file/d/1km0CDrnuId0CjxFeIlcmgubdy1dGlXxh/view?usp=sharing
  
- 
- ## Video
+## Video
  
  https://drive.google.com/file/d/1TWBH1Hr7RjA9vvbdEeW7CHbnd7aB3Qt4/view?usp=drivesdk
+
+## Presentation
+ 
+ https://drive.google.com/file/d/1km0CDrnuId0CjxFeIlcmgubdy1dGlXxh/view?usp=sharing
 
